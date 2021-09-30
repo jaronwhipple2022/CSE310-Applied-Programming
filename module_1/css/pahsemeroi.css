@@ -1,3 +1,4 @@
+/*---------------------- css for the entire website --------------------------*/
 body {
     background-color: gray;
     width: 75%;
@@ -38,6 +39,7 @@ h2 {
     font-size: 2vw;
 }
 
+/*---------------------- css styling for my different classes--------------------------*/
 .maintitle {
     align-self: center;
 }
@@ -84,7 +86,7 @@ h2 {
 
 }
 
-/*----------------------Map css----------------------------*/
+/*----------------------Map css--------------------------*/
 .embed-container {
     position: relative; 
     padding-bottom: 80%; 
