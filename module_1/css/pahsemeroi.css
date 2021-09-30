@@ -1,0 +1,80 @@
+body {
+    background-color: gray;
+    width: 75%;
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: flex-start;
+    gap: none;
+    background-color: forestgreen;
+    padding: 1rem;
+    font-size: 4vw;
+    border-radius: 10px;
+    margin-top: 10px;
+    font-family: 'Lobster', cursive;
+}
+
+footer {
+    background-color: lightgrey;
+    text-align: center;
+    padding: 1rem;
+    font-size: 2vw;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    font-family: 'Lobster', cursive; 
+    text-align: center;
+    font-size: 2vw;
+}
+
+.maintitle {
+    align-self: center;
+}
+
+.subhead {
+    font-size: 2vw;
+    text-align: center;
+}
+.mainimg {
+    width: fit-content;
+    height: auto;
+    max-width: 40%;
+}
+
+.mapdesc {
+    font-family: 'Open Sans', sans-serif;
+    background-color: lightgrey;
+    padding: 5px;
+    margin-top: 2rem;
+    border-radius: 10px;
+}
+.harvest {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    gap: 25%;
+    background-color: lightgrey;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 2rem;
+    padding: 1rem;
+}
+
+.harvestDesc {
+    padding-left: 10%;
+    align-self: center;
+    font-size: 1vw;
+
+}
