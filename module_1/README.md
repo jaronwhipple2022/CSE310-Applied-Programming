@@ -4,7 +4,7 @@ The purpose of this project was to embed an interactive map into a website. It w
 
 A large portion of my hobbies and interests include following and studying maps. This was an effective way for me to cache information that I can reflect on, as well as share with others who have the same opportunity to hunt sheep as I did.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/xL9GNMEmVB0)
 
 # Development Environment
 
