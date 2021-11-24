@@ -1,10 +1,10 @@
 # Overview
 
-This Java program is a file creator and viewer. The user can create a file name and text to insert into the file. They can then view a list of all files that have been created and open them to see their content. I recognize there is an obnoxious bug that causes the program to receive/execute display data funny. I believe this has something to do with the scanner. It is a problem that I unfortunately do not have time to fix at this time.
+This Java program is a file creator and viewer. The user can create a file name and text to insert into the file. They can then view a list of all files that have been created and open them to see their content. I recognize there is an obnoxious bug that causes the program to receive/execute display data funny. I believe this has something to do with the scanner. It is a problem that I unfortunately do not have time to fix at this time. Also, note the Document file is not used, it is there for possible future implementation.
 
 I wrote this program from complete scratch to build my knowledge in the Java language. I tried to include an example of all the basic programming concepts in order to practice them. This was a great opportunity for me to learn and demonstrate what I learned about the Java language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/DBve4jwr3fQ)
 
 # Development Environment
 

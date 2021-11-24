@@ -1,5 +1,6 @@
 package CSE310_Applied_Programming.module_5;
 
+// necessary imports
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
