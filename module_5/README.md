@@ -1,32 +1,23 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This Java program is a file creator and viewer. The user can create a file name and text to insert into the file. They can then view a list of all files that have been created and open them to see their content. I recognize there is an obnoxious bug that causes the program to receive/execute display data funny. I believe this has something to do with the scanner. It is a problem that I unfortunately do not have time to fix at this time.
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+I wrote this program from complete scratch to build my knowledge in the Java language. I tried to include an example of all the basic programming concepts in order to practice them. This was a great opportunity for me to learn and demonstrate what I learned about the Java language.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I wrote this program using Visual Studio Code with several extensions that allow Java to run. These extensions include: Maven for Java, Language Support for Java, Project Manager for Java, and Test Runner for Java. All GitHub uploads were also done through Visual Studio Code.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Alex Lee (YouTuber)](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA)
+- [W3 Schools](https://www.w3schools.com/java/default.asp)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- First and formost I need to fix the bug of recieving and executing input.
+- Something I would like to add is the ability to open an existing file and edit it, rather than just view it.
+- I still feel a little unsure about how classes interact together. To better understand, I would like to break up my code into different classes for additional practice.
+- I like things neat and tidy. I think it would be fun to add a more interactive/pretty user interface.
